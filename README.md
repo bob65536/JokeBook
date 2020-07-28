@@ -14,17 +14,16 @@ At first, it was a Word document (I still got it somewhere in a Dropbox account)
 Today, some books that I printed are circulating. Please do not attribute to yourself my work (unless you gently ask me). 
 
 ## Are the jokes all from yourself? 
-For a huge part (>80%): yes. The remainder are either an adaptation from a more famous joke or a joke I did not know it existed.  
+For a huge part (\80%): yes. The remainder are either an adaptation from a more famous joke or a joke I did not know it existed.  
   
-## Can I print it? 
+## Can I print it? 
 For you and your friends/family: yes! You can share it in PDF too. 
 For an editor or for publishing it, ask be before (without asking me, no). 
 
-## Are the information in puns true?
+## Are the information in puns true?
 I am neither a mathematician, nor a geograph nor an historian. Do NOT take every word of this book as an absolute truth (you should notice when the information is phony). Foornotes try to explain some things but are not perfect (as well: if you have suggestions, post an issue). 
 
 ## I saw a joke that I dislike: what can I do?
 There are two parts that might not please everyone here (the sections without page numbers). If you want to give this to children, you should "forget" to print them. You can also send me a message and the questionnable content can be removed.   
 I do NOT want to add racists puns (for jokes aiming at some nations, it is only for the name of the city/country, NOT the culture/population/history related to this place). 
-
 *In brief: you can tell me if you find a joke offensive (with suggestions for correcting it, if you wish). If it is really offensive, tell me and it will be deleted. I don't want to offense anybody. Sorry!*
