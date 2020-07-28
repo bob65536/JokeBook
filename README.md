@@ -20,9 +20,11 @@ For a huge part (>80%): yes. The remainder are either an adaptation from a more 
 For you and your friends/family: yes! You can share it in PDF too. 
 For an editor or for publishing it, ask be before (without asking me, no). 
 
-## Why don't you publish this? You can be rich and famous!
-I highly doubt an editor might accept this. Even if a daredevil editor accepts it, I don't expect to make a fortune from that book (be realistic: some really good authors hardly earns tenths of euros, although they write books as a living). 
+## Why don't you publish this? You can be rich and famous!
+I highly doubt an editor might accept this.  
+Even if a daredevil editor accepts it, I don't expect to make a fortune from that book (be realistic: some really good authors hardly earns tenths of euros, although they write books as a living). 
 And if there is a copyright infringement (not the case in theory but we never know!), I don't want to have big trouble by involving money in the case.  
+
 One thing that will be sure: **the PDF** (and the future versions of it) **will stay free!**
 
 ## Are the information in puns true?
