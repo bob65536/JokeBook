@@ -14,11 +14,16 @@ At first, it was a Word document (I still got it somewhere in a Dropbox account)
 Today, some books that I printed are circulating. Please do not attribute to yourself my work (unless you gently ask me). 
 
 ## Are the jokes all from yourself? 
-For a huge part (\80%): yes. The remainder are either an adaptation from a more famous joke or a joke I did not know it existed.  
-  
+For a huge part (>80%): yes. The remainder are either an adaptation from a more famous joke or a joke I did not know it existed.  
+
 ## Can I print it? 
 For you and your friends/family: yes! You can share it in PDF too. 
 For an editor or for publishing it, ask be before (without asking me, no). 
+
+## Why don't you publish this? You can be rich and famous!
+I highly doubt an editor might accept this. Even if a daredevil editor accepts it, I don't expect to make a fortune from that book (be realistic: some really good authors hardly earns tenths of euros, although they write books as a living). 
+And if there is a copyright infringement (not the case in theory but we never know!), I don't want to have big trouble by involving money in the case.  
+One thing that will be sure: **the PDF** (and the future versions of it) **will stay free!**
 
 ## Are the information in puns true?
 I am neither a mathematician, nor a geograph nor an historian. Do NOT take every word of this book as an absolute truth (you should notice when the information is phony). Foornotes try to explain some things but are not perfect (as well: if you have suggestions, post an issue). 
