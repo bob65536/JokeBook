@@ -24,14 +24,21 @@
 	urlcolor=cyan,
 }
 
+% If you use TexStudio in English, your labels will be in English, even if your doc is in French.
+% You can change this here.
+\renewcommand{\chaptername}{Chapitre}
+\renewcommand{\contentsname}{Table des Matières}
+
 \title{Recueil de blagues}
 \author{Fait avec amour par Bob Sleigh}
-\date{2021-12-10}
+\date{2021-12-12}
 \begin{document}
 	\maketitle
+	\thispagestyle{empty}
 	\tableofcontents
 	\newpage
 	\section*{Préface}
+	\thispagestyle{plain}
 	\guillemotleft~\textit{C'est une blague, j'espère}~?~\guillemotright\\~\rightline{--- La réaction d'un ami en voyant ce recueil.} \\ \\
 	\guillemotleft~\textit{Rire est le propre de l'Homme.}~\guillemotright\\~\rightline{--- Aristote, avant d'avoir lu cet ouvrage.} \\
 	
@@ -762,11 +769,13 @@
 	\\Pour consulter la version en ligne\footnote{Et télécharger le PDF}, c'est à cette adresse~: \underline{https://github.com/bob65536/JokeBook}. 
 	\\ \\Le contenu y est régulièrement mis à jour. Bonne lecture~!}  
 	\newpage
+	\thispagestyle{empty}
+	\
+	\newpage % for a nb of pages %4 = 0
+	\thispagestyle{empty}
 	\
 	\newpage % for a nb of pages %4 = 0
 	\section*{Résumé}
-	\fancyhead{}
-	\renewcommand{\headrulewidth}{0pt}
 	Hihihihahahohoho~! Hihihihahahohoho~! Hahahahahaha~! \\
 	Hihihihahahohoho~! Hihihihahahohoho~! Hahahahahaha~! \\
 	Hihihihahahohoho~! Hihihihahahohoho~! Hahahahahaha~! \\
